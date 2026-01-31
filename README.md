@@ -95,7 +95,3 @@ Serves the production build locally for testing.
 | Desktop | Mobile |
 |---------|--------|
 | ![Desktop](screenshots/ssDesktop.png) | ![Mobile](screenshots/ssMobile.png) |
-
-## License
-
-Private project. All rights reserved.
