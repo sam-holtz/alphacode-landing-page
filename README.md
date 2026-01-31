@@ -90,11 +90,6 @@ npm run preview
 
 Serves the production build locally for testing.
 
-## Contact
-
-- **Email:** [samholtz1205@gmail.com](mailto:samholtz1205@gmail.com)
-- **GitHub:** [github.com/sam-holtz](https://github.com/sam-holtz)
-
 ## Screenshots
 
 | Desktop | Mobile |
